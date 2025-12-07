@@ -13,7 +13,7 @@ sudo apt install ros-humble-turtlebot3-gazebo ros-humble-turtlebot3-simulations
 # Workspace oluşturma ve projeyi indirme
 mkdir -p ~/ros2_ws/src
 cd ~/ros2_ws/src
-git clone [https://github.com/MuhittinYilmazer/engel_algilama.git](https://github.com/MuhittinYilmazer/engel_algilama.git)
+git clone https://github.com/MuhittinYilmazer/engel_algilama.git
 
 # Derleme
 cd ~/ros2_ws
